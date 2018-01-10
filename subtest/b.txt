@@ -1,2 +1,4 @@
 
-This is a new directory under test repository.
+This is a text file created in subtest directory.
+subtest is a new directory under test repository.
+
